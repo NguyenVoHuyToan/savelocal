@@ -1,0 +1,76 @@
+.todo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px
+  }
+  
+  .h1-todo{
+    text-align: center;
+  }
+  
+  .input-todo{
+    width: 200px;
+  }
+  
+  .button-todo{
+    background-color: blue;
+    color: white;
+  }
+  
+  .checkbox{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px ;
+  }
+   
+  .Check{
+    padding-bottom: 20px;
+    padding-right: 100px;
+  }
+
+  .button-checkbox{
+    position: relative;
+    left: 100px;
+    top: -30px;
+    
+  }
+
+  .inside{
+    display: flex;
+    justify-content: center;
+  }
+
+  .option{
+    margin-top: 10px;
+  }
+  
+  .header{
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+  }
+  
+  .map-job{
+    display: flex;
+    justify-content: center;
+    margin-right: 220px;
+  }
+
+  .complete{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+  }
+  
+  .button-complete{
+    width: 100px;
+    margin-top: 20px;
+    position: relative;
+    left: 600px;
+    border: 1px solid red;
+    color: black;
+  }
